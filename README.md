@@ -1,3 +1,3 @@
 ﻿Teste de conteúdo v3.
 
-Teste de conteúdo v3.  System.Object[]
+Teste de conteúdo v3.
